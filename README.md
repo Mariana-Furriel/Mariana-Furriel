@@ -21,7 +21,7 @@ Gosto muito de aprender coisas novas e me envolver em projetos onde eu possa con
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/MarianaFurriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaFurriel&show_icons=true&layout=compact&theme=radical&include_all_commits=true&count_private=true&hide_border=true&"/>
  
