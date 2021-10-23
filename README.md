@@ -23,10 +23,10 @@ Gosto muito de aprender coisas novas e me envolver em projetos onde eu possa con
 
 <div>
   <a href="https://github.com/MarianaFurriel">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaFurriel&show_icons=true&layout=compact&theme=radical&include_all_commits=true&count_private=true&hide_border=true&"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaFurriel&show_icons=true&layout=compact&theme=radical&include_all_commits=true&count_private=true&hide_border=true&"/>
   </a>
    <a href="https://github.com/MarianaFurriel">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFurriel&langs_count=7&layout=compact&theme=radical&hide_border=true&card_width=235"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFurriel&langs_count=7&layout=compact&theme=radical&hide_border=true&card_width=235"/>
   </a>
      </div>
   
