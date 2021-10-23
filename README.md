@@ -21,17 +21,12 @@ Gosto muito de aprender coisas novas e me envolver em projetos onde eu possa con
 
 ##
 
-<!--<div>
+<div>
   <a href="https://github.com/MarianaFurriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaFurriel&show_icons=true&layout=compact&theme=radical&include_all_commits=true&count_private=true&hide_border=true&"/>
  
    <a href="https://github.com/MarianaFurriel">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFurriel&langs_count=7&layout=compact&theme=radical&hide_border=true&card_width=235"/>
- </div>-->
- <a href="https://github.com/MarianaFurriel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaFurriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&"/>
-</a>
-<a href="https://github.com/MarianaFurriel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFurriel&langs_count=7&layout=compact&theme=radical&hide_border=true&card_width=235"/</a>
+ </div>
   
   ![Snake animation](https://github.com/MarianaFurriel/MarianaFurriel/blob/output/github-contribution-grid-snake.svg)
