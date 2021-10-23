@@ -28,8 +28,9 @@ Gosto muito de aprender coisas novas e me envolver em projetos onde eu possa con
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFurriel&langs_count=7&layout=compact&theme=radical&hide_border=true&card_width=230"/>
  </div>
   -->
+  <div align="center">
   <a href="https://github.com/MarianaFurriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaFurriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFurriel&layout=compact&langs_count=7&theme=dracula"/>
-  
+    </div>
   ![Snake animation](https://github.com/MarianaFurriel/MarianaFurriel/blob/output/github-contribution-grid-snake.svg)
