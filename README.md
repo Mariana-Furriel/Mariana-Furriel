@@ -4,7 +4,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Rio de Jane
 
 Gosto muito de aprender coisas novas e me envolver em projetos onde eu possa contribuir de alguma forma.
 <div style="display:inline_block" align="">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://38.media.tumblr.com/e548fd0ecb77e2a9c2712314fe7b902e/tumblr_ns1pf60Rmb1qk24apo1_1280.gif">
+  <img align="right" height="150" style="border-radius:50px;" src="http://38.media.tumblr.com/e548fd0ecb77e2a9c2712314fe7b902e/tumblr_ns1pf60Rmb1qk24apo1_1280.gif">
  <!-- 🔭 Atualmente trabalhando num pequeno projeto do jogo MasterMind em C. <br> -->
   🌱 Estou aprendendo JavaScript.<br>
   ⚡ Fato curioso: tenho cinco gatos e um cachorro.
