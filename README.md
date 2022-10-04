@@ -1,6 +1,6 @@
 ### Olá 👋
 Me chamo Mariana Furriel.
-Sou estudante de Ciência da Computação na Universidade Federal do Rio de Janeiro. Sou monitora na disciplina de Computação I em Python.
+Sou estudante de Ciência da Computação na Universidade Federal do Rio de Janeiro. Sou monitora nas disciplinas de Computação I em Python e Estrutura de Dados.
 
 Gosto muito de aprender coisas novas e me envolver em projetos onde eu possa contribuir de alguma forma.
 <!-- <div style="display:inline_block" align="">
