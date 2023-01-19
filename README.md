@@ -1,14 +1,12 @@
 ### Olá 👋
 Me chamo Mariana Furriel.
-Sou estudante de Ciência da Computação na Universidade Federal do Rio de Janeiro. Sou monitora nas disciplinas de Computação I em Python e Estrutura de Dados.
-
-Gosto muito de aprender coisas novas e me envolver em projetos onde eu possa contribuir de alguma forma.
+Cursei três períodos de Ciência da Computação na Universidade Federal do Rio de Janeiro. Fui monitora nas disciplinas de Computação I em Python e Estrutura de Dados. Hoje em dia estou estudando por conta própria e em busca de projetos onde possa entender melhor como as coisas que estudo funcionam no mundo real!
 <!-- <div style="display:inline_block" align="">
   <img align="right" height="150" style="border-radius:50px;" src="http://38.media.tumblr.com/e548fd0ecb77e2a9c2712314fe7b902e/tumblr_ns1pf60Rmb1qk24apo1_1280.gif"> -->
  <!-- 🔭 Atualmente trabalhando num pequeno projeto do jogo MasterMind em C. <br> -->
   🌱 Estou aprendendo Python.<br>
-  ⚡ Fato curioso: tenho cinco gatos e um cachorro.
-   <!-- - 🤔 Procurando projetos em equipe.-->
+  ⚡ Fato curioso: tenho quatro gatos e um cachorro.
+  🤔 Procurando projetos em equipe.
 </div>
 
 <div style="display:inline_block" align="center"><br><br>
