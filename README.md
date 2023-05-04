@@ -21,8 +21,7 @@ Cursei três períodos de Ciência da Computação na Universidade Federal do Ri
 
           
 </div><br>
-![GitHub Streak](https://streak-stats.demolab.com?user=marianafurriel&theme=monokai&locale=pt_BR)(https://git.io/streak-stats)
-
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=marianafurriel&theme=monokai&locale=pt_BR)](https://git.io/streak-stats) -->
 <!--<div>
   <a href="https://github.com/MarianaFurriel">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarianaFurriel&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
