@@ -20,8 +20,8 @@ Cursei três períodos de Ciência da Computação na Universidade Federal do Ri
           
 
           
-</div>
-
+</div><br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=marianafurriel&theme=dark&hide_border=true&border_radius=7.4&locale=pt_BR)](https://git.io/streak-stats)
 ##
 
 <!--<div>
@@ -30,4 +30,4 @@ Cursei três períodos de Ciência da Computação na Universidade Federal do Ri
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFurriel&layout=compact&langs_count=7&theme=shades-of-purple"/>
     </div>-->
   
-  ![Snake animation](https://github.com/MarianaFurriel/MarianaFurriel/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/MarianaFurriel/MarianaFurriel/blob/output/github-contribution-grid-snake.svg) -->
