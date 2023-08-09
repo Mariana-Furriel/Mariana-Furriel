@@ -4,7 +4,7 @@ Cursei três períodos de Ciência da Computação na Universidade Federal do Ri
 <!-- <div style="display:inline_block" align="">
   <img align="right" height="150" style="border-radius:50px;" src="http://38.media.tumblr.com/e548fd0ecb77e2a9c2712314fe7b902e/tumblr_ns1pf60Rmb1qk24apo1_1280.gif"> -->
  <!-- 🔭 Atualmente trabalhando num pequeno projeto do jogo MasterMind em C. <br> -->
-  🌱 Estou explorando algumas tecnologias, a mais recente foi Python e agora estou em JavaScript.<br>
+  🌱 Atualmente estou estudando Angular e Typescript.<br>
   ⚡ Fato curioso: tenho quatro gatos e um cachorro.<br>
   🤔 Procurando projetos em equipe.
 </div>
