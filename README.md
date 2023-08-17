@@ -9,8 +9,8 @@ Cursei três períodos de Ciência da Computação na Universidade Federal do Ri
   🤔 Procurando projetos em equipe.
 </div>
 <div style="display:inline_block" align="center">
-<a href="https://www.linkedin.com/in/marianafurriel/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://github.com/marianafurriel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+<a href="https://www.linkedin.com/in/marianafurriel/"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://github.com/marianafurriel"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
           
 </div>
 <div style="display:inline_block" align="center"><br><br>
