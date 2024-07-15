@@ -4,9 +4,8 @@ Cursei três períodos de Ciência da Computação na Universidade Federal do Ri
 <!-- <div style="display:inline_block" align="">
   <img align="right" height="150" style="border-radius:50px;" src="http://38.media.tumblr.com/e548fd0ecb77e2a9c2712314fe7b902e/tumblr_ns1pf60Rmb1qk24apo1_1280.gif"> -->
  <!-- 🔭 Atualmente trabalhando num pequeno projeto do jogo MasterMind em C. <br> -->
-  🌱 Atualmente estou estudando Engenharia de dados.<br>
+  🌱 Atualmente estou estudando Ruby on Rails<br>
   ⚡ Fato curioso: tenho seis gatos e dois cachorros.<br>
-  🤔 Procurando projetos em equipe.
 </div>
 <div style="display:inline_block" align="center">
 <a href="https://www.linkedin.com/in/marianafurriel/"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
