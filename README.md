@@ -1,10 +1,10 @@
 ### Olá 👋
 Me chamo Mariana Furriel.
 Cursei três períodos de Ciência da Computação na Universidade Federal do Rio de Janeiro. Fui monitora nas disciplinas de Computação I em Python e Estrutura de Dados. Hoje curso Análise e Desenvolvimento de Sistemas e trabalho na <a href="https://www.linkedin.com/company/cloudwalk-inc/mycompany/">CloudWalk/></a> como Customer Support Engineer.
-  <img align="right" height="150" style="border-radius:50px;" src="http://38.media.tumblr.com/e548fd0ecb77e2a9c2712314fe7b902e/tumblr_ns1pf60Rmb1qk24apo1_1280.gif"> -->
  <!-- 🔭 Atualmente trabalhando num pequeno projeto do jogo MasterMind em C. <br> -->
   🌱 Atualmente estou estudando Ruby on Rails<br>
   ⚡ Fato curioso: tenho seis gatos e dois cachorros.<br>
+ <!--<img align="right" height="150" style="border-radius:50px;" src="http://38.media.tumblr.com/e548fd0ecb77e2a9c2712314fe7b902e/tumblr_ns1pf60Rmb1qk24apo1_1280.gif"> -->
 </div>
 <div style="display:inline_block" align="center">
 <a href="https://www.linkedin.com/in/marianafurriel/"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
